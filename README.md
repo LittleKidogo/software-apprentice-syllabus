@@ -56,8 +56,22 @@ This is a living document with the proposed items to be covered in the 12 weeks
 
 ## WEEK 3 
 
-# Topics to cover 
+### Topics to cover 
 1. Introduction to projects, linking this up to version control i.e issues, branches, pull requests, reviewing, merging, rebasing
+2. Putting Version Control to use 
+3. Introduction to peer work and review 
+4. Introduction to paragraphs an pages of code 
+
+### Reading Material 
+1. Chapters 3 - 6 of the Elixir programming book
+2. https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+3. https://elixir-lang.org/getting-started/modules-and-functions.html
+
+### Challenges
+1. Complete the code examples in the programming book
+2. Work in branches and in a git repository
+3. Use issues to document and plan your work 
+4. Use pull requests to introduce Changes
 
 
 ## WEEK 4 
