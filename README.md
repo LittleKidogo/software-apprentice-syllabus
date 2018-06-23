@@ -1,6 +1,6 @@
 # Little Kidogo Software Apprenticenship Curriculum 
 
-This is a 12 week timeline that is designed to take an indvidual from 0 to a place where they be productive and explore of there own accord. This being an avenue to employment aims to arm you with the neccessary tools to enable one garner enough experience to accomplish tasks assigned to them
+This is a 12 week timeline that is designed to take an indvidual from 0 to a place where they be productive and explore of their own accord. This being an avenue to employment aims to arm you with the neccessary tools to enable you to garner enough experience to accomplish tasks assigned assigned you.
 
 The whole point of this program isn't to teach any one programming language or `stack` rather to get participants to a point where they can choose what and how to learn it. 
 
@@ -73,7 +73,6 @@ This is a living document with the proposed items to be covered in the 12 weeks
 3. Use issues to document and plan your work 
 4. Use pull requests to introduce Changes
 
-
 ## WEEK 4 
 
 ### Topics to cover 
@@ -96,8 +95,23 @@ This is a living document with the proposed items to be covered in the 12 weeks
 2. Research and Choosing of production projects 
 
 
-## WEEK 5 - 7 
+## WEEK 5 
 
+### Topics to cover 
+1. Contributing to work you don't own
+2. Reviewing work done by others
+3. Continous Integration
+
+
+### Reading Material
+1. Chapter 6-13 of the Elixir programming book 
+2. https://martinfowler.com/articles/continuousIntegration.html
+
+### Challenges 
+1. Complete code examples in the chapters of the elixir book 
+2. Complete the issues and reviews assigned to you by your mentors
+
+## WEEK 6 - 8
 ### Work to cover 
 1. Production work backend and introduction to the frontend 
 
