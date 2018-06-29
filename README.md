@@ -111,7 +111,26 @@ This is a living document with the proposed items to be covered in the 12 weeks
 1. Complete code examples in the chapters of the elixir book 
 2. Complete the issues and reviews assigned to you by your mentors
 
-## WEEK 6 - 8
+## WEEK 6 
+
+### Topics to cover 
+1. Using libraries in applications
+2. Arranging your software code
+3. Pair Programming
+
+### Reading Material
+1. https://elixir-lang.org/getting-started/mix-otp/dependencies-and-umbrella-projects.html#external-dependencies
+2. Revisit Chapter 13 of the Elixir programming book 
+3. Libraries to look up(phoenix, absinthe, exunit, distillery, ecto)
+4. https://en.wikipedia.org/wiki/Pair_programming
+
+### Challenges
+1. Complete the issues assigned to you by your mentors and product owners 
+2. Complete a weekly review with recorded minutes
+3. Work together to help each other review their work.
+4. Complete atleast one of the tasks assigned to you as a pair
+
+## WEEK 7 - 8
 ### Work to cover 
 1. Production work backend and introduction to the frontend 
 
