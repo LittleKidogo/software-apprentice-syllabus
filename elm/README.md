@@ -1,4 +1,4 @@
-# Elixir Apprenticehip  [Server Services, Web Applicatons, Concurrent, Embedded Applications]
+# Software Apprenticehip Elm [Client Applications, Web Applicatons, Mobile applications]
 
 ## WEEK 1
 
