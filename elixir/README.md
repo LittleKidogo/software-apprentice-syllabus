@@ -2,7 +2,7 @@
 
 ## WEEK 1
 
-### Topic to Cover 
+### Topics to Cover 
 1. Functional Programming
 2. Functional Programming vs Other paradigms
 3. What is Elixir 
@@ -119,21 +119,43 @@
 3. Work together to help each other review their work.
 4. Complete atleast one of the tasks assigned to you as a pair
 
-## WEEK 7 - 8
-### Work to cover 
-1. Production work backend and introduction to the frontend 
+## WEEK 7 
 
-## WEEK 8 - 10
+### Topics to cover
+1. How to use agile methodologies when working
+2. Introduction to Agile and other Working styles 
+3. Working as a team 
 
-### Work to cover 
-1. Production work front end 
+### Reading Material 
+1. https://www.zenhub.com/blog/how-to-use-github-agile-project-management/
+2. https://medium.com/quick-bytes/how-to-prepare-for-a-sprint-cd53698e4faa
+3. https://medium.com/quick-bytes/how-we-sprint-at-little-kidogo-2d571d1f5ac1
+4. https://medium.com/quick-bytes/what-we-do-after-a-sprint-8a296228400f
 
 
-## WEEK 11
+### Challenges 
+1. Work with a teammate to complete a sprint planning session 
+2. Work with a teammate to complete a sprint retrospective session 
+3. Compile a sprint plan and present it 
+4. Compile a sprint retrospective and prentent it
+
+## WEEK 8 - 11  
+
+### Topics to cover 
+1. Deploying applications to production
+2. Documenting and reporting on large amounts of work 
+3. Ensuring that work is team safe
+
+### Reading Material
+1. https://www.digitalocean.com/community/tutorial_series/building-for-production-web-applications
+
+### Challenges 
+1. Deploy a small webpage on Github pages to show your learning progress 
+2. Maintain the page and update it as you go along with your weekly reports 
+3. Read and write a report on all the sections of the article in the Reading Material
+
+## WEEK 12
 
 ### Conclusion of work, reviews and assessments 
-
-
-## WEEK 12 
 
 ### Results Week 
