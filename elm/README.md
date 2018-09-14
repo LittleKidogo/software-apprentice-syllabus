@@ -113,7 +113,7 @@
 3. Pair Programming
 
 ### Reading Material
-
+1. https://github.com/LittleKidogo/software-apprentice-syllabus/blob/master/elm/using-packages.elm
 2. https://en.wikipedia.org/wiki/Pair_programming
 
 ### Challenges
