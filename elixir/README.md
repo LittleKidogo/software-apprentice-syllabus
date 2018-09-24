@@ -1,4 +1,4 @@
-# Elixir Apprenticehip  [Server Services, Web Applicatons, Concurrent, Embedded Applications]
+# Software Developer Apprenticeship - Systems ~ish  [Server Services, Web Applicatons, Concurrent, Embedded Applications]
 
 ## WEEK 1
 
