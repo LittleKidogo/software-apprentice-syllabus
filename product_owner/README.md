@@ -1,4 +1,4 @@
-# Product Owner Apprenticeship -  [Own products and systems, Run Communications, Orcherstrate Teams]
+# Product Owner Apprenticeship -  [Own products and systems, Run Communications, Orchestrate Teams]
 
 ## WEEK 1
 
