@@ -21,8 +21,8 @@
 ### Challenges 
 1. Write a small narrative of how and when you would use a object oriented language
 2. Write a small narrative of how and when you would use a functional language
-3. Install Elm on your machine and get it work 
-4. Read about The Elm Artchitechture in your course work material the
+3. Install Elm on your machine and get it to work 
+4. Read about The Elm Artchitechture in your course work material
 5. Create a GitHub Account and join the Little Kidogo organization on GitHub
 
 
