@@ -1,3 +1,5 @@
+
+![lk_small_logo](https://user-images.githubusercontent.com/897731/46567748-dc873480-c938-11e8-940e-76488046bedf.png)
 # Little Kidogo Software Apprenticenship Curriculum
 
 This is a 12 week timeline that is designed to take an indvidual from any starting point to a point where they are productive and explore of their own accord.
