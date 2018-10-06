@@ -28,6 +28,7 @@ This is a living document that could change without warning and hence is provide
 3. Apprentices will be expected to submit weekly reviews on their work and progress on Wednesdays by 6pm UTC +2
 4. Apprentices will have access to three 40 minute pair sessions each week during these sessions. We have noticed that such sessions are much better when candidates work with mentors as a group (so gang up!)
 5. Apprentices will be expected to post daily progress reports detailing their intentions and progress so far, (it's usually one line answers to 4-5 questions that can be answered almost any time)
+6. Each week of the apprenticeship, apprentices shall expected to make a small report detailing what they have learned. This is usually submitted as a short blog post.
 
 
 ## How to ace as a Mentor 
