@@ -10,7 +10,7 @@
 ### Reading Material
 1. https://medium.com/quick-bytes/kanban-methodology-289ded97f19f
 2. https://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640
-3. https://animals.howstuffworks.com/pets/cat.htm
+3. https://familypet.com/how-agile-are-cats/
 
 ### Challenges
 1. Write a report on how you think an agile team works
