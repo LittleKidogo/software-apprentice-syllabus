@@ -38,9 +38,11 @@
 1. http://www.informit.com/articles/article.aspx?p=25074&seqNum=4
 2. http://elm-lang.org/docs/syntax
 3. https://guide.elm-lang.org/architecture/
+4. https://github.com/rtfeldman/elm-0.19-workshop/tree/master/intro/part1
 
 ### Challenges 
 1. Complete all the exercises in the syntax link above
+2. Complete the TODOs in the github link in number four of the reading material
 2. Exercises should be completed and uploaded to a GitHub repo work in small commits, try to use issues and pull requests.
 3. Using the learnings from the 1st link please develop a design and roadmap for an application that allows users to save Diary entries( users should be able to enter new events and maybe even edit existing ones). You are expected to come up with a plan that takes this idea from development all the way to something people can use
 
