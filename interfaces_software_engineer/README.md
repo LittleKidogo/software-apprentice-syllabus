@@ -57,11 +57,10 @@
 ### Reading Material 
 1. https://guide.elm-lang.org/appendix/function_types.html
 2. https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
-3. https://guide.elm-lang.org/appendix/function_types.html
-4. http://elm-lang.org/docs/syntax#applying-functions
-5. http://elm-lang.org/docs/syntax#let-expressions
-6. http://elm-lang.org/docs/syntax#modules
-7. https://guide.elm-lang.org/types/
+3. http://elm-lang.org/docs/syntax#applying-functions
+4. http://elm-lang.org/docs/syntax#let-expressions
+5. http://elm-lang.org/docs/syntax#modules
+6. https://guide.elm-lang.org/types/
 
 ### Challenges
 1. Learn about Elm Modules and how to reuse code
