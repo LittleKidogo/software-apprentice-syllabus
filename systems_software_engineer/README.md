@@ -73,11 +73,14 @@
 1. Chapter 13 of the Elixir Programming book
 2. https://en.wikipedia.org/wiki/Test-driven_development
 3. https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html
+4. https://en.wikipedia.org/wiki/Software_testing
 
 ### Challenges
 1. Complete the code examples in chapter 13 and item 3 above 
 2. Submit all code to Github 
-3. Work with your Mentor to finalize the application you came up with in week 2
+3. Write about the levels of Testing in Software Development
+4. Work with your Mentor to finalize the application you came up with in week 2
+
 
 ### Review Week
 1. Assesment on readiness to work on projects, evaluations and remedies recommended
