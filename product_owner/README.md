@@ -19,20 +19,39 @@
 ## WEEK 2
 
 ### Topics to Cover 
-1.Tools used in Agile Product Development
+1. Tools used in Agile Product Development
+2. Building software as a Product
+3. Introduction to project management tools 
+4. Introduction to Git
 
 ### Reading Material
+1. https://www.atlassian.com/agile/project-management
+2. https://en.wikipedia.org/wiki/Software_project_management
+3. https://git-scm.com/book/en/v2 - Chapter 1 
+4. https://git-scm.com/book/en/v2 - Chapter 2 
 
 ### Challenges 
+1. Install git on your laptop 
+2. Use git to version manage an essay that you write about what you learned this week
+3. Join the Little Kidogo Github Organization
 
 ## WEEK 3 
 
 ### Topics to cover 
 1. Tools used in Agile Product Development 
+2. Teamwork in Agile Product Development
+3. Why Agile Product Development is not a thing?
+4. What is Markdown? and Why?
 
 ### Reading Material 
+1. https://github.com/features/project-management
+2. https://help.github.com/articles/managing-your-work-with-issues/
+3. https://guides.github.com/features/mastering-markdown/
 
 ### Challenges
+1. Write an essay about what you learned this weeek formatted in markdown 
+2. Use issues and pull requests to manage your essay project on github
+3. Find out what branches in git are and add a short introduction to them in your essay
 
 ## WEEK 4 
 
