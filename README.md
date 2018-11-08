@@ -41,4 +41,4 @@ This is a living document that could change without warning and hence is provide
 
 Little Kidogo wishes to thank everyone who has been involved in making this apprenticeship possible for their time and the opportunity.
 
-`Tools for African Artisans`
+`Build Your Community`
