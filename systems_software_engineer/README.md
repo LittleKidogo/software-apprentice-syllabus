@@ -1,12 +1,12 @@
-# Software Developer Apprenticeship - Systems ~ish  [Server Services, Web Applicatons, Concurrent, Embedded Applications]
+# Software Developer Apprenticeship - Systems ~ish  [Server Services, Web Applications, Concurrent, Embedded Applications]
 
 ## WEEK 1
 
 ### Topics to Cover 
 1. Functional Programming
 2. Functional Programming vs Other paradigms
-3. What is Elixir 
-4. What is OTP 
+3. What is Elixir? 
+4. What is OTP?
 6. What is Version Control? Why do we need it?
 
 
@@ -20,8 +20,8 @@
 ### Challenges 
 1. Write a small narrative of how and when you would use a object oriented language
 2. Write a small narrative of how and when you would use a functional language
-3. Install Elixir on your machine and get it work 
-4. Read the foreword in the attached elixir book (only till the start of Conventional Programming
+3. Install Elixir on your machine and get it to work 
+4. Read the foreword in the attached elixir book (only till the start of Conventional Programming)
 5. Create a GitHub Account and join the Little Kidogo organization on GitHub
 
 
@@ -49,7 +49,7 @@
 1. Introduction to projects, linking this up to version control i.e issues, branches, pull requests, reviewing, merging, rebasing
 2. Putting Version Control to use 
 3. Introduction to peer work and review 
-4. Introduction to paragraphs an pages of code 
+4. Introduction to paragraphs and pages of code 
 
 ### Reading Material 
 1. Chapters 3 - 6 of the Elixir programming book
@@ -60,7 +60,7 @@
 1. Complete the code examples in the programming book
 2. Work in branches and in a git repository
 3. Use issues to document and plan your work 
-4. Use pull requests to introduce Changes
+4. Use pull requests to introduce changes
 
 ## WEEK 4 
 
@@ -84,7 +84,7 @@
 
 ### Review Week
 1. Assesment on readiness to work on projects, evaluations and remedies recommended
-2. Research and Choosing of production projects 
+2. Research and choosing of production projects 
 
 
 ## WEEK 5 
@@ -92,7 +92,7 @@
 ### Topics to cover 
 1. Contributing to work you don't own
 2. Reviewing work done by others
-3. Continous Integration
+3. Continuous Integration
 
 
 ### Reading Material
@@ -120,13 +120,13 @@
 1. Complete the issues assigned to you by your mentors and product owners 
 2. Complete a weekly review with recorded minutes
 3. Work together to help each other review their work.
-4. Complete atleast one of the tasks assigned to you as a pair
+4. Complete at least one of the tasks assigned to you as a pair
 
 ## WEEK 7 
 
 ### Topics to cover
 1. How to use agile methodologies when working
-2. Introduction to Agile and other Working styles 
+2. Introduction to Agile and other working styles 
 3. Working as a team 
 
 ### Reading Material 
@@ -140,7 +140,7 @@
 1. Work with a teammate to complete a sprint planning session 
 2. Work with a teammate to complete a sprint retrospective session 
 3. Compile a sprint plan and present it 
-4. Compile a sprint retrospective and prentent it
+4. Compile a sprint retrospective and present it
 
 ## WEEK 8 - 11  
 
@@ -155,7 +155,7 @@
 ### Challenges 
 1. Deploy a small webpage on Github pages to show your learning progress 
 2. Maintain the page and update it as you go along with your weekly reports 
-3. Read and write a report on all the sections of the article in the Reading Material
+3. Read and write a report on all the sections of the article in the reading material
 
 ## WEEK 12
 
