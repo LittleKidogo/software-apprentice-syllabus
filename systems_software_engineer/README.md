@@ -109,11 +109,12 @@
 1. Using libraries in applications
 2. Arranging your software code
 3. Pair Programming
+4. Code analysis - Credo
 
 ### Reading Material
 1. https://elixir-lang.org/getting-started/mix-otp/dependencies-and-umbrella-projects.html#external-dependencies
 2. Revisit Chapter 13 of the Elixir programming book 
-3. Libraries to look up(phoenix, absinthe, exunit, distillery, ecto)
+3. Libraries to look up(phoenix, absinthe, exunit, distillery, ecto, credo)
 4. https://en.wikipedia.org/wiki/Pair_programming
 
 ### Challenges
