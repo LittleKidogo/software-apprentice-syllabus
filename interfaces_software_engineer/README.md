@@ -1,12 +1,12 @@
-# Software Apprenticehip - Interfaces [Client Applications, Web Applicatons, Mobile applications]
+# Software Apprenticeship - Interfaces [Client Applications, Web Applications, Mobile Applications]
 
 ## WEEK 1
 
 ### Topics to Cover 
 1. Functional Programming
 2. Functional Programming vs Other paradigms
-3. What is Elm 
-4. What is TEA 
+3. What is Elm? 
+4. What is TEA?
 6. What is Version Control? Why do we need it?
 
 
@@ -17,12 +17,12 @@
 3. https://guide.elm-lang.org/
 4. https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 5. Find attached an introductory book on Elm also accessible here (https://guide.elm-lang.org)
-
+6. KnowThen Elm for Beginners Course (Covers 0.18) here (https://courses.knowthen.com/p/elm-for-beginners) 
 ### Challenges 
 1. Write a small narrative of how and when you would use a object oriented language
 2. Write a small narrative of how and when you would use a functional language
 3. Install Elm on your machine and get it to work 
-4. Read about The Elm Artchitechture in your course work material
+4. Read about The Elm architecture in your course work material
 5. Create a GitHub Account and join the Little Kidogo organization on GitHub
 
 
@@ -86,8 +86,8 @@
 3. Work with your Mentor to finalize the application you came up with in week 2
 
 ### Review Week
-1. Assesment on readiness to work on projects, evaluations and remedies recommended
-2. Research and Choosing of production projects 
+1. Assessment on readiness to work on projects, evaluations and possible areas of improvement recommended
+2. Research and selection of production projects 
 
 
 ## WEEK 5 
@@ -95,7 +95,7 @@
 ### Topics to cover 
 1. Contributing to work you don't own
 2. Reviewing work done by others
-3. Continous Integration
+3. Continuous Integration
 
 
 ### Reading Material
@@ -121,13 +121,13 @@
 1. Complete the issues assigned to you by your mentors and product owners 
 2. Complete a weekly review with recorded minutes
 3. Work together to help each other review their work.
-4. Complete atleast one of the tasks assigned to you as a pair
+4. Complete at least one of the tasks assigned to you as a pair
 
 ## WEEK 7 
 
 ### Topics to cover
 1. How to use agile methodologies when working
-2. Introduction to Agile and other Working styles 
+2. Introduction to Agile and other working styles 
 3. Working as a team 
 
 ### Reading Material 
@@ -141,7 +141,7 @@
 1. Work with a teammate to complete a sprint planning session 
 2. Work with a teammate to complete a sprint retrospective session 
 3. Compile a sprint plan and present it 
-4. Compile a sprint retrospective and prentent it
+4. Compile a sprint retrospective and present it
 
 ## WEEK 8 - 11  
 
@@ -157,7 +157,7 @@
 ### Challenges 
 1. Deploy a small webpage on Github pages to show your learning progress 
 2. Maintain the page and update it as you go along with your weekly reports 
-3. Read and write a report on all the sections of the digital ocean article in the Reading Material
+3. Read and write a report on all the sections of the DigitalOcean article in the reading material
 
 ## WEEK 12
 
